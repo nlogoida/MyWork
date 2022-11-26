@@ -19,7 +19,7 @@ public class Example9 {
                 System.out.println("В феврале 28 дней!");
                 break;
             case "Март" :
-                System.out.println("В феврале 31 день!");
+                System.out.println("В марте 31 день!");
                 break;
             case "Апрель" :
                 System.out.println("В апреле 30 дней!");
