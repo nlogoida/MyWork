@@ -8,11 +8,11 @@ public class Example7 {
         String name = in.nextLine();
 
 
-        System.out.println("Вес: ");
-        float weight = in.nextFloat();
+        System.out.println("Возраст: ");
+        int лет = in.nextInt();
 
         System.out.println("Имя: " +name);
-        System.out.println("Вес: " +weight+ " кг");
+        System.out.println("Возраст: " +лет);
         in.close();
 
     }
